@@ -1,0 +1,10 @@
+.message-content .remove-button {
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 100ms linear;
+}
+
+.message-content:hover .remove-button {
+  pointer-events: auto;
+  opacity: 1;
+}

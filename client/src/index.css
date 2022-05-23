@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+/* input[type="password"]::-ms-reveal,
+input[type="password"]::-ms-clear {
+  display: none !important;
+} */
+:-ms-reveal,
+:-ms-clear {
+  display: none !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+.hover:hover {
+  background-color: #fafafa;
+  transition: background-color 200ms ease;
+}
+
+textarea:focus {
+  border: none;
+  outline: none;
+}
