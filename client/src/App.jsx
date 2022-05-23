@@ -35,7 +35,7 @@ function App() {
 
   //   socket io
   useEffect(() => {
-    const socket = io("https://instgram-clone-mern.herokuapp.com");
+    const socket = io("https://instgram-clone-mern.herokuapp.com/");
     dispatch({ type: SOCKET, payload: socket });
     return () => socket.close();
   }, [SOCKET, dispatch]);
