@@ -15,26 +15,25 @@ https://instgram-clone-mern.herokuapp.com/
 
 ## Install dependencies
 
+Install dependencies => server
 ```
-  Server:
   npm install
 ```
 
+Install dependencies => client
+
 ```
-  Client:
-  bash
-  cd client/
+  cd client
   npm install
 ```
 
-Start the server
-
-```bash
+Start => server
+```
   npm start
 ```
-Start the Client
+Start => Client
 
-```bash
+```
   cd client
   npm start
 ```
