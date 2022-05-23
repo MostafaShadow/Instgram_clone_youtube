@@ -1,9 +1,11 @@
 # Instgram_clone
 <h1>MERN Stack Build a social media app </h1>
-<h2>I will create this Project in My Youtube channel </h2>
-**Author:  Mostafa Mohamed => Shadow Coding**
 
-***Technology***
+<h2>I will create this Project in My Youtube channel </h2>
+
+<h2> Author:  Mostafa Mohamed => Shadow Coding</h2>
+
+**Technology**
 
 **Server:** Node JS, Express JS
 
